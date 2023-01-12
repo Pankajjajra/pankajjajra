@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Typescript and Redux**
 
-- 💬 Ask me about **React, TypeScript, Redux, JS, HTML AND CSS **
+- 💬 Ask me about **React, TypeScript, Redux, JS, HTML AND CSS**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
