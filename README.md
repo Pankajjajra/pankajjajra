@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/pankaj_jajra" target="blank"><img src="https://img.shields.io/twitter/follow/pankaj_jajra?logo=twitter&style=for-the-badge" alt="pankaj_jajra" /></a> </p>
 
-- 🔭 I’m currently working on **React JS**
+- 🔭 I’m currently working on **React JS & Native**
 
-- 🌱 I’m currently learning **Typescript and Redux**
+- 🌱 I’m currently learning **Tailwind CSS and GraphQL**
 
-- 💬 Ask me about **React, TypeScript, Redux, JS, HTML AND CSS**
+- 💬 Ask me about **React JS, React Native, TypeScript, Redux, JS, HTML AND CSS**
 
 
 
