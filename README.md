@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pankaj Jajra</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajjajra&label=Profile%20views&color=0e75b6&style=flat" alt="pankajjajra" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pankaj_jajra" target="blank"><img src="https://img.shields.io/twitter/follow/pankaj_jajra?logo=twitter&style=for-the-badge" alt="pankaj_jajra" /></a> </p>
 
-- 🔭 I’m currently working on **React JS & Native**
+- 🔭 I’m currently working on **React Native**
 
-- 🌱 I’m currently learning **Tailwind CSS and GraphQL**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **React JS, React Native, TypeScript, Redux, JS, HTML AND CSS**
+- 💬 Ask me about **React Native, React JS, JavaScript**
 
 
 
