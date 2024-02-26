@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Jajra</h1>
-<h3 align="center">A passionate react native developer from India</h3>
+<h3 align="center">React Native Developer From India</h3>
 
 - 🔭 I’m currently working on **React Native Android & Ios Projects**
 
