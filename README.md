@@ -1,29 +1,38 @@
-<h1 align="center">Hi 👋, I'm Pankaj Jajra</h1>
-<h3 align="center">React Native Developer From India</h3>
+# Pankaj Jajra
 
-- 🔭 I’m currently working on **React Native Android & Ios Projects**
+**Senior Mobile App Developer · Team Lead · React Native**
 
-- 🌱 I’m currently learning **flutter**
+I lead mobile development, building cross-platform Android and iOS apps with React Native and TypeScript. For 4+ years I've shipped production apps to the App Store and Google Play, with a focus on sound architecture, reliable API integration, and performance users can feel. Based in Rajasthan, India.
 
-- 💬 Ask me about **React Native, React Js and JavaScript**
+---
 
-- 📫 How to reach me **pankajjajra000@gmail.com**
+### Summary
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pankajjajra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pankajjajra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pankajjajra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankajjajra" height="30" width="40" /></a>
-</p>
+- 4+ years building and shipping cross-platform mobile apps, primarily with React Native and TypeScript
+- Lead the mobile team at iWebwiser: architecture decisions, code review, and release management
+- Mentor developers on React Native architecture, state management, and clean component design
+- Worked on 100+ repositories and projects across mobile and full-stack development
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-</p>
+### Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajjajra&show_icons=true&locale=en&layout=compact" alt="pankajjajra" /></p>
+| Area         | Technologies                                     |
+| ------------ | ------------------------------------------------ |
+| Mobile       | React Native, Flutter, Android, iOS              |
+| Languages    | TypeScript, JavaScript, Dart                     |
+| State & Data | Redux, REST APIs, GraphQL, Firebase              |
+| Backend      | Node.js                                          |
+| Delivery     | CI/CD, App Store Connect, Google Play Console    |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajjajra&show_icons=true&locale=en" alt="pankajjajra" /></p>
+### Engineering Focus
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajjajra&" alt="pankajjajra" /></p>
+- **Architecture:** technical planning and app structure that stays maintainable as features and teams grow
+- **Performance:** fast cold starts, smooth list rendering, low crash rates, and predictable behaviour on low-end devices
+- **API integration:** clean data layers over REST and GraphQL with consistent loading and error handling
+- **Release management:** reliable releases through App Store Connect and Google Play Console
+- **AI-integrated features:** adding AI to mobile products where it genuinely improves the experience
+- **Technical leadership:** code review, mentoring, and shared standards across the mobile team
+
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/pankajjajra/)
